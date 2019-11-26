@@ -20,3 +20,4 @@ For our awesome class project!
 ## Resources
 
 * https://djangocentral.com/building-a-blog-application-with-django/
+* https://djangocentral.com/creating-comments-system-with-django/
