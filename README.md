@@ -13,7 +13,6 @@ For our awesome class project!
 * `pip install Django==2.2`
 
 ## Run the blog site
-* `cd group5`
 * `python manage.py runserver`
 * Open `http://127.0.0.1:8000/` in your browser.
 
