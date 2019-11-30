@@ -10,13 +10,26 @@
 <!-- Sidebar Widgets Column -->
 <div class="col-md-4 float-right ">
 <div class="card my-4">
-        <h5 class="card-header">About Us</h5>
+        <h5 class="card-header"> About Us</h5>
     <div class="card-body">
         <p class="card-text"> Syempre di naman namin talaga kaya gawin to sa loob ng 1 week, buti na lang may mga tutorial :D </p>
-        <a href="https://djangocentral.com/building-a-blog-application-with-django"
-           class="btn btn-danger">Check this link oh!</a>
+        <a href="https://github.com/maning/group5-blog"
+           class="btn btn-danger">Check this code oh! 🎉 </a>
     </div>
 </div>
+
+<div class="card my-4">
+        <h5 class="card-header"> Recent posts</h5>
+    <div class="card-body">
+<ul>
+    {% for post in post_list %}
+        <li><a href="{{ post.slug }}"> {{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+</div>
+</div>
+
 </div>
 
 {% endblock sidebar %}
