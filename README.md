@@ -1,6 +1,5 @@
 For our awesome class project!
 
-
 ## Copy/clone this repo
 
 * `git clone git@github.com:maning/group5-blog.git`
