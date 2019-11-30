@@ -20,3 +20,7 @@ For our awesome class project!
 
 * https://djangocentral.com/building-a-blog-application-with-django/
 * https://djangocentral.com/creating-comments-system-with-django/
+
+## Whois
+
+[@maning](https://github.com/maning) [@jholoapuli](https://github.com/jholoapuli) [@archsangalang](https://github.com/archsangalang) [@voltair12](https://github.com/voltair12)
